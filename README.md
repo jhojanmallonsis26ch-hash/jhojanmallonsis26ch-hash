@@ -1,16 +1,24 @@
-## Hi there 👋
+#jhojan mallon 
 
-<!--
-**jhojanmallonsis26ch-hash/jhojanmallonsis26ch-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy un estudiante que está empezando en el mundo de la informática.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programación básica
+- Uso de herramientas como Visual Studio Code
+- Lenguajes como markdown
+- Cómo crear y entender código
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,github,vscode)](https://skillicons.dev)
+
+## 🎯 Mi objetivo
+
+Mi objetivo es aprender a programar paso a paso, mejorar mis habilidades y crear proyectos cada vez más interesantes.
+
+## 🚀 Motivación
+
+Sé que aprender informática requiere práctica, paciencia y curiosidad.  
+Este es solo el comienzo de mi camino como futuro programador.
+
+---
+![imagen desde la web](https://www.excelsior.edu/wp-content/uploads/2025/01/computer-programming-vs-computer-science-image_blog.jpg)
