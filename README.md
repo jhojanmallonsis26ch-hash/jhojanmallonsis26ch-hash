@@ -1,4 +1,4 @@
-# jhojanmallon 
+# Jhojan Mallon 
 
 Hola, soy un estudiante que está empezando en el mundo de la informática.
 
